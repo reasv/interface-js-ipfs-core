@@ -66,7 +66,7 @@
     "pull-stream": "^3.6.11",
     "pump": "^3.0.0",
     "readable-stream": "^3.1.1",
-    "streaming-iterables": "^4.1.0",
+    "streaming-iterables": "^4.1.1",
     "through2": "^3.0.0"
   },
   "devDependencies": {
